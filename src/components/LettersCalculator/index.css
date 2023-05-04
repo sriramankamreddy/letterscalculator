@@ -1,0 +1,48 @@
+/* Write your code here. */
+
+.bg_container {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.imageSize {
+  height: 70%;
+  width: 40%;
+}
+
+.heading {
+  color: #ffffff;
+}
+
+.para {
+  color: #ffffff;
+}
+
+.inputClass {
+  background-color: transparent;
+  border-style: solid;
+  border-color: #ffffff;
+  color: #ffffff;
+}
+
+.extra {
+  background-color: #ffffff;
+  height: 50px;
+  width: 130px;
+  color: #1d976c;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  padding-top: 2px;
+  justify-content: center;
+  margin: 10px;
+}
+
+.para2 {
+  color: #1d976c;
+  font-size: 14px;
+}
